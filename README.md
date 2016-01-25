@@ -9,6 +9,6 @@ Argument 2 - path location of the configuration file that lists the column to be
 Argument 3 - path location of the configuration file that lists the data vendor specific ids.
 Argument 4 - path location of the output file.
 
-The program shall be run from the IDE or in a command line by building the executable jar using maven and running the following command : java -jar SMRTPrjTest-1.0.0.jar <Argument1> <Argument2> <Argument3> <Argument4>.
+The program shall be run from the IDE or in a command line by building the executable jar using maven and running the following command : java -jar SMRTPrjTest-1.0.0.jar Argument1 Argument2 Argument3 Argument4
 
 
